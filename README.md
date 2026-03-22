@@ -67,3 +67,8 @@ LIME
 Identifies the most important image regions using superpixel segmentation and local explanations.
 
 These techniques help us understand whether the model is focusing on relevant areas in the mammogram images.
+
+To Run the project, clone git repository using https://github.com/stephaniekeziah/CM3070-Final-Project.git
+Open the .ipynb file and run the cells one by one.
+This is the link to download the dataset, i could not include it in this repository as the file was too big: https://drive.google.com/file/d/1abQdX0FNuN0N6ERUaIHpJDS9nMCEWYNX/view?usp=sharing
+This is the link to download the model, i could not include it in this repository as the file was too big: https://drive.google.com/file/d/1TMGpB09_UI8SumC6R2BsxKa3u10nIm8i/view?usp=sharing
